@@ -3,7 +3,16 @@ div{
   height: 100px; */
   background-color: rgb(133, 98, 104);
   text-align: center;
+  border-radius: 10px;
 }
 body{
   background-color: rgb(187, 170, 173);
+}
+h3{
+  border: 2px solid black;
+  display: inline-block;
+  border-radius: 5px;
+}
+ol{
+  font-weight: bold;
 }
